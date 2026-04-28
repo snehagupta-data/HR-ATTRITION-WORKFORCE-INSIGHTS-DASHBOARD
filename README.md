@@ -14,6 +14,7 @@ Throughout this project, I've had the chance to:
 ## Steps followed:
 
 [Download the dataset from here](employee_data.csv)
+
 **1. Data Gathering:** 
   - Importing raw data .csv file into Power BI & transform to Power Query editor for cleaning and data processing.
           
