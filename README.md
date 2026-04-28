@@ -1,4 +1,4 @@
-# [HR ATTRITION & WORKFORCE INSIGHTS DASHBOARD 🔗](https://drive.google.com/file/d/1h30yQ-tukzdef7TLYNqnkKJKS_5BZZmr/view?usp=sharing)
+# [HR ATTRITION & WORKFORCE INSIGHTS DASHBOARD ]
 
 ## Objective
 
@@ -13,8 +13,7 @@ Throughout this project, I've had the chance to:
 
 ## Steps followed:
 
-[Download the dataset from here](https://docs.google.com/spreadsheets/d/1zGx61NdbXoosYdrCraDgaaavNZCzjLL_/edit?usp=sharing&ouid=115970559951748233059&rtpof=true&sd=true)
-
+[Download the dataset from here] employee_data.csv
 **1. Data Gathering:** 
   - Importing raw data .csv file into Power BI & transform to Power Query editor for cleaning and data processing.
           
@@ -60,9 +59,9 @@ Throughout this project, I've had the chance to:
 6. **Education wise Attrition**: The attrition rate of High School is 18.24% which is maximum among the other education. 
 7. **Attrition Rate by Gender for Different Age Group:**  The attrition count among the age group of 25-34 years 112 which is maximum among the other age groups.
 
-[ Dashboard](https://drive.google.com/file/d/1h30yQ-tukzdef7TLYNqnkKJKS_5BZZmr/view?usp=sharing)
+[ Dashboard] HR ATTRITION & WORKFORCE INSIGHTS DASHBOARD.pdf
 
 
-![HR Analytics dashboard](https://github.com/Sanyarastogi28/HR-Analytics-Dashboard-using-Power-BI-/assets/96762852/b3e1391f-053b-45fa-8c0a-194edb4a40b8)
+![HR Analytics dashboard]HR ATTRITION & WORKFORCE INSIGHTS DASHBOARD.pbix
 
    
