@@ -13,7 +13,7 @@ Throughout this project, I've had the chance to:
 
 ## Steps followed:
 
-[Download the dataset from here] employee_data.csv
+[Download the dataset from here] (employee_data.csv)
 **1. Data Gathering:** 
   - Importing raw data .csv file into Power BI & transform to Power Query editor for cleaning and data processing.
           
@@ -60,8 +60,8 @@ Throughout this project, I've had the chance to:
 7. **Attrition Rate by Gender for Different Age Group:**  The attrition count among the age group of 25-34 years 112 which is maximum among the other age groups.
 
 ## 📊 Dashboard
-- Power BI file: `HR ATTRITION & WORKFORCE INSIGHTS DASHBOARD.pbix`
-- PDF export: `HR ATTRITION & WORKFORCE INSIGHTS DASHBOARD.pdf`
 
-![HR Dashboard](dashboard.png)
+- Power BI file: [Download PBIX](HR%20ATTRITION%20%26%20WORKFORCE%20INSIGHTS%20DASHBOARD.pbix)
+- PDF export: [Download PDF](HR%20ATTRITION%20%26%20WORKFORCE%20INSIGHTS%20DASHBOARD.pdf)
+
    
