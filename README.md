@@ -63,4 +63,5 @@ Throughout this project, I've had the chance to:
 - Power BI file: `HR ATTRITION & WORKFORCE INSIGHTS DASHBOARD.pbix`
 - PDF export: `HR ATTRITION & WORKFORCE INSIGHTS DASHBOARD.pdf`
 
+![HR Dashboard](dashboard.png)
    
