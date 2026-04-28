@@ -59,9 +59,8 @@ Throughout this project, I've had the chance to:
 6. **Education wise Attrition**: The attrition rate of High School is 18.24% which is maximum among the other education. 
 7. **Attrition Rate by Gender for Different Age Group:**  The attrition count among the age group of 25-34 years 112 which is maximum among the other age groups.
 
-[ Dashboard] HR ATTRITION & WORKFORCE INSIGHTS DASHBOARD.pdf
-
-
-![HR Analytics dashboard]HR ATTRITION & WORKFORCE INSIGHTS DASHBOARD.pbix
+## 📊 Dashboard
+- Power BI file: `HR ATTRITION & WORKFORCE INSIGHTS DASHBOARD.pbix`
+- PDF export: `HR ATTRITION & WORKFORCE INSIGHTS DASHBOARD.pdf`
 
    
